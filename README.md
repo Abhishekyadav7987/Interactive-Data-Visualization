@@ -33,15 +33,6 @@ Welcome to the **COVID-19 Daily Cases Line Chart (India)** project! This interac
 
 ---
 
-## 📸 Screenshots
-### 🖼️ Sample Line Chart
-![Line Chart](./public/screenshots/img.png)
-
-### 🖼️ Responsive Design
-![Line Chart](./public/screenshots/img_2.png)
-
----
-
 ## 🔧 Installation & Usage
 
 1. **Clone the repository**
